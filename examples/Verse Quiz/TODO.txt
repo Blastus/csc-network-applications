@@ -1,0 +1,4 @@
+ * Add favicon (do not create 404 errors)
+ * Patch the "diff" module to use a memo
+ * Patch the "compare" module (not sure of details)
+ * Upgrade the reference parse to understand more expressions
